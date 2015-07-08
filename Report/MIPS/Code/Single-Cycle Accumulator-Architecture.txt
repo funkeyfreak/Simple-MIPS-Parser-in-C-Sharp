@@ -1,0 +1,50 @@
+﻿ADDI 0
+PUSH
+LOAD 0(mem)
+ADDI 0
+PUSH
+LOAD -1(mem)
+ADDI 999
+PUSH
+LOAD -2(mem)
+ADDI 28
+PUSH
+LOAD -3(mem)
+ADDI 12
+PUSH
+LOAD -4(mem)
+ADDI 7
+PUSH
+LOAD -5(mem)
+ADDI 0
+PUSH
+LOAD -4(mem)
+BZERO -3(mem)
+LOAD -6(mem)
+STORE 0(mem)
+STORE -5(mem)
+SLT -4(mem)
+BZERO -2(mem)
+LOADI 1(0(mem))
+PUSH
+LOADI 0(-1(mem))
+SLE 0(mem)
+STORE 0(mem)
+POP
+BZERO -1(mem)
+LOAD 0(mem)
+ADDI 1 
+STORE 0(mem)
+JUMP 25
+LOAD -5(mem)
+JUMP 21
+LOADI 0(0(mem))
+PUSH
+LOADI 1(-1(mem))
+STOREI 0(-1(mem))
+POP
+STOREI 1(0(mem))
+LOAD 0(mem)
+STORE -5(mem)
+JUMP 34
+ADDI 101

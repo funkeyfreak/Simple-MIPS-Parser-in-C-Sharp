@@ -1,0 +1,35 @@
+﻿MOVE $t0 $zero
+ADDI $t0 28
+PUSH $t0
+MOVE $t0 $zero
+ADDI $t0 20
+PUSH $t0
+MOVE $t0 $zero
+ADDI $t0 6
+PUSH $t0
+MOVE $t0 $zero
+ADDI $t0 5
+PUSH $t0
+MOVE $t0 $zero
+ADDI $t0 999
+PUSH $t0
+BZERO $t0 -3($sp)
+MOVE $t1 $zero
+MOVE $t2 $zero
+MOVE $t5 $t1
+SLT $t5 0($sp)
+BZERO $t5 -2($sp)
+LOAD $t3 0($t1)
+SLE $t3 1($t1)
+BZERO $t3 -1($sp)
+ADDI $t1 1
+JUMP 18
+MOVE $t0 $t2
+JUMP 15
+MOVE $t2 $t1
+LOAD $t3 0($t1)
+LOAD $t4 1($t1)
+STORE $t4 0($t1)
+STORE $t3 1($t1)
+JUMP 24
+ADDI $t0 777

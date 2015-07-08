@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AssemblyParser.Parsers.Accumulator" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIBUAACiAgMARIAAAAACgAIgKIAEACQBAAAABAAA=</HashCode>
+      <FileName>Parsers\Accumulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblyParser.Parsers.General" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Parsers\General.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblyParser.Parsers.Register" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIAUAAmiggMAQICAAAACgAIgIIAEAAQBAAAAAAIA=</HashCode>
+      <FileName>Parsers\Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblyParser.Program" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblyParser.Utilities.Data.ReadInData" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQgAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Utilities\Data\ReadInData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblyParser.Utilities.Memory.Mem" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Utilities\Memory\Mem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssemblyParser.Utilities.Memory.Registers" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\Memory\Registers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

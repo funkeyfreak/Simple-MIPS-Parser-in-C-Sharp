@@ -1,0 +1,8 @@
+D:\Users\Dalin Williams\Google Drive\Homework_School_Work\Sr W15\Adv Architecture\Class Work\Projects\Proj1\AssemblyParser\AssemblyParser\bin\Debug\AssemblyParser.exe.config
+D:\Users\Dalin Williams\Google Drive\Homework_School_Work\Sr W15\Adv Architecture\Class Work\Projects\Proj1\AssemblyParser\AssemblyParser\bin\Debug\AssemblyParser.exe
+D:\Users\Dalin Williams\Google Drive\Homework_School_Work\Sr W15\Adv Architecture\Class Work\Projects\Proj1\AssemblyParser\AssemblyParser\bin\Debug\AssemblyParser.pdb
+D:\Users\Dalin Williams\Google Drive\Homework_School_Work\Sr W15\Adv Architecture\Class Work\Projects\Proj1\AssemblyParser\AssemblyParser\obj\Debug\AssemblyParser.exe
+D:\Users\Dalin Williams\Google Drive\Homework_School_Work\Sr W15\Adv Architecture\Class Work\Projects\Proj1\AssemblyParser\AssemblyParser\obj\Debug\AssemblyParser.pdb
+D:\Users\Dalin Williams\Google Drive\Homework_School_Work\Sr W15\Adv Architecture\Class Work\Projects\Proj1\AssemblyParser\AssemblyParser\bin\Debug\Utilities\Code\Single-Cycle Register-Archictrure.txt
+D:\Users\Dalin Williams\Google Drive\Homework_School_Work\Sr W15\Adv Architecture\Class Work\Projects\Proj1\AssemblyParser\AssemblyParser\bin\Debug\Utilities\Code\Single-Cycle Accumulator-Architecture.txt
+D:\Users\Dalin Williams\Google Drive\Homework_School_Work\Sr W15\Adv Architecture\Class Work\Projects\Proj1\AssemblyParser\AssemblyParser\obj\Debug\AssemblyParser.csprojResolveAssemblyReference.cache
